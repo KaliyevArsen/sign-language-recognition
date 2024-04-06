@@ -1,0 +1,7 @@
+numpy
+pandas
+os-win; platform_system == "Windows"
+keras
+matplotlib
+seaborn
+tensorflow
