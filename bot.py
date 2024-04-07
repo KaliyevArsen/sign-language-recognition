@@ -7,7 +7,7 @@ from PIL import Image
 import numpy as np
 import io
 
-TOKEN = '7112831243:AAFwO9UgM59xejbqSBI0jTFjdbzj333-ePw'
+TOKEN = 'BOT TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 model_path = 'model.keras'
